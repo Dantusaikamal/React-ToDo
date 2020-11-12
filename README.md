@@ -1,4 +1,4 @@
-# React-ToDo
+# React ToDo list
 
 This repository contains a To-do list app that I've created using React. The Todo app let's you add multiple tasks in order to execute multiple chats quickly. You can also delete them once you are done. Also the list can be divided into two parts: Finished tasks, Unfinished tasks. 
 
